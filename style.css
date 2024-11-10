@@ -1,0 +1,120 @@
+.correct-answer {
+    background-color: #28a745 !important;
+    color: #fff !important;
+    border-color: #28a745 !important;
+  }
+  
+  .wrong-answer {
+    border-color: #dc3545 !important;
+  }
+  
+  .korean-word {
+    font-family: "Arial Unicode MS", sans-serif;
+  }
+  
+  .sinhalese-word {
+    font-family: "Noto Sans Sinhala", sans-serif;
+  }
+  
+  #direction-button {
+    position: absolute;
+    top: 10px;
+    right: 24px;
+    padding: 10px;
+  }
+
+  #wrong-answers-button{
+    position: absolute;
+    top: 10px;
+    right: 72px;
+    padding: 10px;
+  }
+  
+  #custom-button {
+    position: absolute;
+    top: 10px;
+    right: 132px;
+    padding: 10px;
+  }
+
+  #setting-button {
+    position: absolute;
+    top: 10px;
+    right: 180px;
+    padding: 10px;
+  }
+
+
+  #logout-btn {
+    position: absolute;
+    top: 10px;
+    right: 24px;
+    padding: 10px;
+  }
+  
+  #w2json-btn {
+    position: absolute;
+    top: 10px;
+    right: 72px;
+    padding: 10px;
+  }
+
+  #score-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.95);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .timer-container {
+    position: sticky;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    z-index: 100;
+  }
+  
+  #timer {
+    transition: color 0.3s ease;
+  }
+  
+  #score-overlay {
+    animation: fadeIn 0.5s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .table-responsive {
+    margin-bottom: 0;
+  }
+  
+  .wrong-answer {
+    background-color: #fde8e8 !important;
+    color: #dc3545 !important;
+  }
+  
+  .correct-answer {
+    background-color: #e8fde8 !important;
+    color: #28a745 !important;
+  }
+  
+  #wrong-answers .card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  #wrong-answers .table td {
+    vertical-align: middle;
+  }
+
+  #clean-history{
+    padding: 10px;
+  }

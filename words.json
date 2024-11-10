@@ -1,0 +1,406 @@
+{
+  "1-4. 안녕하세요": [
+    {
+      "korean": "오이",
+      "sinhalese": "පිපිඤ්ඤ"
+    },
+    {
+      "korean": "우유",
+      "sinhalese": "කිරි "
+    },
+    {
+      "korean": "여우",
+      "sinhalese": "නරියා "
+    },
+    {
+      "korean": "가수",
+      "sinhalese": "ගායකයා "
+    },
+    {
+      "korean": "아이",
+      "sinhalese": "ලමයා "
+    },
+    {
+      "korean": "아기",
+      "sinhalese": "ළදරුවා "
+    },
+    {
+      "korean": "네모",
+      "sinhalese": "චතුරශ්‍රය"
+    },
+    {
+      "korean": "다리",
+      "sinhalese": "කකුල "
+    },
+    {
+      "korean": "소리",
+      "sinhalese": "ශබ්දය "
+    },
+    {
+      "korean": "모자",
+      "sinhalese": "තොප්පිය "
+    },
+    {
+      "korean": "아버지",
+      "sinhalese": "තාත්තා "
+    },
+    {
+      "korean": "사자",
+      "sinhalese": "සිංහයා "
+    },
+    {
+      "korean": "새우",
+      "sinhalese": "ඉස්ස"
+    },
+    {
+      "korean": "지우개",
+      "sinhalese": "මකනය "
+    },
+    {
+      "korean": "치마",
+      "sinhalese": "සාය "
+    },
+    {
+      "korean": "코",
+      "sinhalese": "නහය "
+    },
+    {
+      "korean": "타조",
+      "sinhalese": "පැස්බරා"
+    },
+    {
+      "korean": "포도",
+      "sinhalese": "මිදි "
+    },
+    {
+      "korean": "호수",
+      "sinhalese": "විල"
+    },
+    {
+      "korean": "까치",
+      "sinhalese": "පොල්කිච්චා "
+    },
+    {
+      "korean": "어깨",
+      "sinhalese": "උරහිස "
+    },
+    {
+      "korean": "귀뚜라미",
+      "sinhalese": "පළගැටියා"
+    },
+    {
+      "korean": "뿌리",
+      "sinhalese": "ගසේ මුල "
+    },
+    {
+      "korean": "아저씨",
+      "sinhalese": "මාමා "
+    },
+    {
+      "korean": "찌개",
+      "sinhalese": "සුප් වැනි ආහාරයක් "
+    },
+    {
+      "korean": "이",
+      "sinhalese": "2 දෙක "
+    },
+    {
+      "korean": "오",
+      "sinhalese": "5 පහ "
+    },
+    {
+      "korean": "예",
+      "sinhalese": "ඔව් "
+    },
+    {
+      "korean": "와",
+      "sinhalese": "Wow"
+    },
+    {
+      "korean": "왜",
+      "sinhalese": "ඇයි "
+    },
+    {
+      "korean": "와요 / 오다",
+      "sinhalese": "එනවා "
+    },
+    {
+      "korean": "위에",
+      "sinhalese": "මත / උඩ "
+    },
+    {
+      "korean": "외우다 / 외워요",
+      "sinhalese": "කට පාඩම් කරනවා "
+    },
+    {
+      "korean": "선생님",
+      "sinhalese": "ගුරුතුමා "
+    },
+    {
+      "korean": "학생",
+      "sinhalese": "ශිෂ්‍යයා "
+    },
+    {
+      "korean": "반 친구",
+      "sinhalese": "පංතියේ යාලුවා "
+    },
+    {
+      "korean": "칠반",
+      "sinhalese": "කළු ලෑල්ල / White board"
+    },
+    {
+      "korean": "책상",
+      "sinhalese": "පොත් මේසය "
+    },
+    {
+      "korean": "의자",
+      "sinhalese": "පුටුව "
+    },
+    {
+      "korean": "책",
+      "sinhalese": "පොත"
+    },
+    {
+      "korean": "곤책",
+      "sinhalese": "අභ්‍යාස පොත"
+    },
+    {
+      "korean": "연필",
+      "sinhalese": "පැන්සල "
+    },
+    {
+      "korean": "볼펜",
+      "sinhalese": "පෑන "
+    },
+    {
+      "korean": "필통",
+      "sinhalese": "පැන්සල් පෙට්ටිය "
+    },
+    {
+      "korean": "시계",
+      "sinhalese": "ඔරලෝසුව "
+    },
+    {
+      "korean": "달력",
+      "sinhalese": "දින දර්ශනය "
+    },
+    {
+      "korean": "창문",
+      "sinhalese": "ජනේලය "
+    },
+    {
+      "korean": "문",
+      "sinhalese": "දොර "
+    },
+    {
+      "korean": "카메라",
+      "sinhalese": "කැමරාව"
+    },
+    {
+      "korean": "스키",
+      "sinhalese": "ස්කී ක්‍රීඩාව "
+    },
+    {
+      "korean": "커피",
+      "sinhalese": "කෝපි "
+    },
+    {
+      "korean": "기차",
+      "sinhalese": "කෝච්චිය "
+    },
+    {
+      "korean": "피아노",
+      "sinhalese": "පියානෝව "
+    },
+    {
+      "korean": "옷",
+      "sinhalese": "ඇදුම් "
+    },
+    {
+      "korean": "양",
+      "sinhalese": "බැටළුවන්"
+    },
+    {
+      "korean": "집",
+      "sinhalese": "ගෙදර "
+    },
+    {
+      "korean": "입",
+      "sinhalese": "තොල් "
+    },
+    {
+      "korean": "일",
+      "sinhalese": "1 එක "
+    },
+    {
+      "korean": "잎",
+      "sinhalese": "ගසේ කොළ "
+    },
+    {
+      "korean": "밖",
+      "sinhalese": "යම් ස්ථානයක පිටත "
+    },
+    {
+      "korean": "구름",
+      "sinhalese": "වලාකුළු "
+    },
+    {
+      "korean": "산",
+      "sinhalese": "කන්ද "
+    },
+    {
+      "korean": "꽃",
+      "sinhalese": "මල් "
+    },
+    {
+      "korean": "별",
+      "sinhalese": "තරුව "
+    },
+    {
+      "korean": "말",
+      "sinhalese": "අශ්වයා / වචන"
+    },
+    {
+      "korean": "삼",
+      "sinhalese": "3 තුන "
+    },
+    {
+      "korean": "책을 펴세요",
+      "sinhalese": "පොත දිග හරිනවා "
+    },
+    {
+      "korean": "책을 덮으세요",
+      "sinhalese": "පොත වහනවා "
+    },
+    {
+      "korean": "보세요 / 보다",
+      "sinhalese": "බලන්න "
+    },
+    {
+      "korean": "들으세요",
+      "sinhalese": "සවන් දෙන්න "
+    },
+    {
+      "korean": "따라하세요",
+      "sinhalese": "මා කීවට පසු කියන්න "
+    },
+    {
+      "korean": "스세요 / 스다",
+      "sinhalese": "ලියන්න "
+    },
+    {
+      "korean": "이야기하세요",
+      "sinhalese": "කතාකරන්න "
+    },
+    {
+      "korean": "대답하세요",
+      "sinhalese": "පිළිතුරු දෙන්න "
+    },
+    {
+      "korean": "알겠어요? ",
+      "sinhalese": "තේරෙනව ද? "
+    },
+    {
+      "korean": "네, 알겠습니다",
+      "sinhalese": "ඔව්, තේරුණා "
+    },
+    {
+      "korean": "아니요, 모르겠습니다 ",
+      "sinhalese": "නැහැ, තේරුනේ නැ "
+    },
+    {
+      "korean": "질문 있어요? ",
+      "sinhalese": "ප්‍රශ්න තියනව ද? "
+    },
+    {
+      "korean": "네, 질문 있습니다 ",
+      "sinhalese": "ඔව්, ප්‍රශ්න තියනවා "
+    },
+    {
+      "korean": "아니요, 질문 없습니다 ",
+      "sinhalese": "නැහැ, ප්‍රශ්න නැ "
+    },
+    {
+      "korean": "안녕하세요",
+      "sinhalese": "ආයුබෝවන් "
+    },
+    {
+      "korean": "만나서 반갑습니다",
+      "sinhalese": "හමුවීම සතුටක් "
+    },
+    {
+      "korean": "안녕히 계세요",
+      "sinhalese": "හොඳින් ඉන්න"
+    },
+    {
+      "korean": "안녕히 가세요",
+      "sinhalese": "හොඳින් යන්න "
+    },
+    {
+      "korean": "감사합니다",
+      "sinhalese": "ස්තුතියි "
+    },
+    {
+      "korean": "아니에요",
+      "sinhalese": "සුළු දෙයක් don't thank"
+    },
+    {
+      "korean": "죄송합니다",
+      "sinhalese": "සමාවෙන්න "
+    },
+    {
+      "korean": "괜찮아요",
+      "sinhalese": "කමක් නෑ "
+    }
+  ],
+  "5. 주말 잘 보내세요": [
+    {
+      "korean": "안녕히 주무세요",
+      "sinhalese": "සුභ රාත්‍රියක් "
+    },
+    {
+      "korean": "잘 자요",
+      "sinhalese": "හොඳින් නිදා ගන්න "
+    },
+    {
+      "korean": "안녕히 주무셨어요? ",
+      "sinhalese": "හොඳින් නිදා ගත්ත ද? "
+    },
+    {
+      "korean": "네, 잘 잤어요? ",
+      "sinhalese": "ඔව්, හොඳින් නිදා ගත්ත ද? "
+    },
+    {
+      "korean": "잘 먹겠습니다",
+      "sinhalese": "හොඳට කන්නම් "
+    },
+    {
+      "korean": "많이 드세요",
+      "sinhalese": "ගොඩක් කන්න "
+    },
+    {
+      "korean": "잘 먹었습니다",
+      "sinhalese": "හොඳින් කෑවා "
+    },
+    {
+      "korean": "네",
+      "sinhalese": "ඔව් (ගෞරව) "
+    },
+    {
+      "korean": "주말 잘 보내세요",
+      "sinhalese": "සති අන්තය හොඳින් ගතකරන්න "
+    },
+    {
+      "korean": "네, 주말 잘 보내세요",
+      "sinhalese": "ඔව්, හොඳින් ගතකරන්නම් "
+    },
+    {
+      "korean": "축하합니다",
+      "sinhalese": "සුභ පැතුම් "
+    },
+    {
+      "korean": "감사합니다",
+      "sinhalese": "ස්තුතියි "
+    }
+  ]
+} 
