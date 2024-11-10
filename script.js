@@ -341,7 +341,7 @@ function displayVocabularyData() {
     const section = vocabularyData[sectionTitle];
 
     const sectionTitleRow = document.createElement("div");
-    sectionTitleRow.classList.add("row", "mb-2", "fw-bold", "w-100");
+    sectionTitleRow.classList.add("row", "mb-2", "fw-bold", "w-100", "h4");
     sectionTitleRow.textContent = sectionTitle;
 
     wordListDiv.appendChild(sectionTitleRow);
