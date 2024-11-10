@@ -407,7 +407,7 @@ const categories = [
   {
     section: "Preparatory Lessons",
     disabled: true,
-    items: ["1-4. 안녕하세요", "5. 주말 잘 보내세요"],
+    items: ["3-4. 안녕하세요", "5. 주말 잘 보내세요"],
   },
   {
     section: "Basic Life",
