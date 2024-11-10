@@ -1,24 +1,164 @@
 {
-    "Beginner": [
-      {
-        "korean": "오이",
-        "sinhalese": "පිපිඤ්ඤdfwef"
-      },
-      {
-        "korean": "우유",
-        "sinhalese": "කිරිwefw "
-      },
-      {
-        "korean": "여우",
-        "sinhalese": "නරියා wef"
-      },
-      {
-        "korean": "가수",
-        "sinhalese": "ගායකයාwef "
-      },
-      {
-        "korean": "아이",
-        "sinhalese": "ලමයාwef "
-      }
-    ]
+  "1-2. 한글 익히기": [
+    {
+      "korean": "ㅏ",
+      "sinhalese": "අ "
+    },
+    {
+      "korean": "ㅑ",
+      "sinhalese": "ය"
+    },
+    {
+      "korean": "ㅓ",
+      "sinhalese": "ඔ "
+    },
+    {
+      "korean": "ㅕ",
+      "sinhalese": "යො "
+    },
+    {
+      "korean": "ㅗ",
+      "sinhalese": "ඔ උ මැද ශබ්දය "
+    },
+    {
+      "korean": "ㅛ",
+      "sinhalese": "යො යු මැද ශබ්දය "
+    },
+    {
+      "korean": "ㅜ",
+      "sinhalese": "උ "
+    },
+    {
+      "korean": "ㅠ",
+      "sinhalese": "යු "
+    },
+    {
+      "korean": "ㅡ",
+      "sinhalese": "ලොප් අ "
+    },
+    {
+      "korean": "ㅣ",
+      "sinhalese": "ඉ "
+    },
+    {
+      "korean": "ㅐ",
+      "sinhalese": "එ "
+    },
+    {
+      "korean": "ㅒ",
+      "sinhalese": "යෙ"
+    },
+    {
+      "korean": "ㅔ",
+      "sinhalese": "ඒ "
+    },
+    {
+      "korean": "ㅖ",
+      "sinhalese": "යේ "
+    },
+    {
+      "korean": "ㅘ",
+      "sinhalese": "ව "
+    },
+    {
+      "korean": "ㅙ",
+      "sinhalese": "වෙ "
+    },
+    {
+      "korean": "ㅚ",
+      "sinhalese": "වෙ "
+    },
+    {
+      "korean": "ㅞ",
+      "sinhalese": "වෙ "
+    },
+    {
+      "korean": "ㅝ",
+      "sinhalese": "වො"
+    },
+    {
+      "korean": "ㅟ",
+      "sinhalese": "වි "
+    },
+    {
+      "korean": "ㅢ",
+      "sinhalese": "ලොප් අ +ඉ "
+    },
+    {
+      "korean": "ㄱ",
+      "sinhalese": "ක / ග "
+    },
+    {
+      "korean": "ㄴ",
+      "sinhalese": "න "
+    },
+    {
+      "korean": "ㄷ",
+      "sinhalese": "ත / ද "
+    },
+    {
+      "korean": "ㄹ",
+      "sinhalese": "ල / ර "
+    },
+    {
+      "korean": "ㅁ",
+      "sinhalese": "ම "
+    },
+    {
+      "korean": "ㅂ",
+      "sinhalese": "ප / බ "
+    },
+    {
+      "korean": "ㅅ",
+      "sinhalese": "ස"
+    },
+    {
+      "korean": "ㅇ",
+      "sinhalese": "ං (න්) "
+    },
+    {
+      "korean": "ㅈ",
+      "sinhalese": "ච / ජ"
+    },
+    {
+      "korean": "ㅊ",
+      "sinhalese": "ඡ (මහප්‍රාණ ච) "
+    },
+    {
+      "korean": "ㅋ",
+      "sinhalese": "ඛ (මහප්‍රාණ ක) "
+    },
+    {
+      "korean": "ㅌ",
+      "sinhalese": "ථ (මහප්‍රාණ ත) "
+    },
+    {
+      "korean": "ㅍ",
+      "sinhalese": "ඵ (මහප්‍රාණ ප) "
+    },
+    {
+      "korean": "ㅎ",
+      "sinhalese": "හ"
+    },
+    {
+      "korean": "ㄲ",
+      "sinhalese": "ක් ක් (ද්විත්ව ක) "
+    },
+    {
+      "korean": "ㄸ",
+      "sinhalese": "ත‍් ත‍් (ද්විත්ව ත) "
+    },
+    {
+      "korean": "ㅃ",
+      "sinhalese": "ප් ප් (ද්විත්ව ප) "
+    },
+    {
+      "korean": "ㅆ",
+      "sinhalese": "ස් ස් (ද්විත්ව ස) "
+    },
+    {
+      "korean": "ㅉ",
+      "sinhalese": "ච් ච් (ද්විත්ව ච) "
+    }
+  ]
 }
