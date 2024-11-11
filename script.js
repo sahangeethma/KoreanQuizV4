@@ -195,7 +195,7 @@ function checkAnswer(correctAnswer, userAnswer) {
       }
     });
     resultElement.textContent = "Correct!";
-    setTimeout(loadQuiz, 1000);
+    setTimeout(loadQuiz, 100);
   } else {
     wrongCount++;
 
@@ -235,52 +235,6 @@ function checkAnswer(correctAnswer, userAnswer) {
   scoreElement.textContent = `Score: ${correctCount} / ${
     correctCount + wrongCount
   } (${((correctCount / (correctCount + wrongCount)) * 100).toFixed(2)}%)`;
-}
-
-function checkAnswer(correctAnswer, userAnswer) {
-  const answerButtons = document.querySelectorAll("#answers button");
-  const currentQuestion =
-    quizDirection === "korean-to-sinhalese"
-      ? currentWord.korean
-      : currentWord.sinhalese;
-
-  if (userAnswer === correctAnswer) {
-    correctCount++;
-    answerButtons.forEach((btn) => {
-      if (btn.textContent === correctAnswer) {
-        btn.classList.add("correct-answer");
-      } else {
-        btn.classList.add("wrong-answer");
-      }
-    });
-    resultElement.textContent = "Correct!";
-    setTimeout(loadQuiz, 100);
-  } else {
-    wrongCount++;
-    // Add wrong answer to the list
-    wrongAnswersList.push({
-      question: currentQuestion,
-      wrongAnswer: userAnswer,
-      correctAnswer: correctAnswer,
-      direction: quizDirection,
-    });
-    // Update wrong answers display
-    updateWrongAnswersDisplay();
-
-    answerButtons.forEach((btn) => {
-      if (btn.textContent === correctAnswer) {
-        btn.classList.add("correct-answer");
-      }
-      btn.classList.add("wrong-answer");
-    });
-    resultElement.textContent = "Incorrect. Try again.";
-    setTimeout(loadQuiz, 1000);
-  }
-
-  // Disable all answer buttons
-  answerButtons.forEach((btn) => {
-    btn.disabled = true;
-  });
 }
 
 function updateWrongAnswersDisplay() {
