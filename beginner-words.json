@@ -164,27 +164,27 @@
   "characters": [
     {
       "korean": "감",
-      "sinhalese": "කාම්"
+      "sinhalese": "කම්"
     },
     {
       "korean": "견",
-      "sinhalese": "ගෙන්"
+      "sinhalese": "ග්යොන්"
     },
     {
       "korean": "굳",
-      "sinhalese": "කුට්"
+      "sinhalese": "කුත්"
     },
     {
       "korean": "당",
-      "sinhalese": "දාං"
+      "sinhalese": "තං"
     },
     {
       "korean": "들",
-      "sinhalese": "දල්"
+      "sinhalese": "තල්"
     },
     {
       "korean": "박",
-      "sinhalese": "බක්"
+      "sinhalese": "පක්"
     },
     {
       "korean": "산",
@@ -196,11 +196,11 @@
     },
     {
       "korean": "장",
-      "sinhalese": "ජාං"
+      "sinhalese": "ජං"
     },
     {
       "korean": "판",
-      "sinhalese": "පාන්"
+      "sinhalese": "පන්"
     },
     {
       "korean": "학",
@@ -208,47 +208,47 @@
     },
     {
       "korean": "함",
-      "sinhalese": "හාම්"
+      "sinhalese": "හම්"
     },
     {
       "korean": "합",
-      "sinhalese": "හාප්"
+      "sinhalese": "හප්"
     },
     {
       "korean": "혁",
-      "sinhalese": "හියොක්"
+      "sinhalese": "හ්යොක්"
     },
     {
       "korean": "흠",
-      "sinhalese": "හුම්"
+      "sinhalese": "හම්"
     },
     {
       "korean": "거",
-      "sinhalese": "ගො"
+      "sinhalese": "කො"
     },
     {
       "korean": "걱",
-      "sinhalese": "ගොක්"
+      "sinhalese": "කොක්"
     },
     {
       "korean": "결",
-      "sinhalese": "ගෙල්"
+      "sinhalese": "ක්යොල්"
     },
     {
       "korean": "록",
-      "sinhalese": "රොක්"
+      "sinhalese": "ලොක්"
     },
     {
       "korean": "믿",
-      "sinhalese": "මිට්"
+      "sinhalese": "මිත්"
     },
     {
       "korean": "볼",
-      "sinhalese": "බොල්"
+      "sinhalese": "පොල්"
     },
     {
       "korean": "빔",
-      "sinhalese": "බිම්"
+      "sinhalese": "පිම්"
     },
     {
       "korean": "심",
@@ -260,7 +260,7 @@
     },
     {
       "korean": "찾",
-      "sinhalese": "චාත්"
+      "sinhalese": "චත්"
     },
     {
       "korean": "툭",
@@ -276,7 +276,7 @@
     },
     {
       "korean": "돔",
-      "sinhalese": "දොම්"
+      "sinhalese": "තොම්"
     },
     {
       "korean": "폭",
@@ -292,7 +292,7 @@
     },
     {
       "korean": "혀",
-      "sinhalese": "හෙයො"
+      "sinhalese": "හ්යො"
     },
     {
       "korean": "호",
@@ -304,19 +304,19 @@
     },
     {
       "korean": "퀵",
-      "sinhalese": "කුයික්"
+      "sinhalese": "ක්වෙක්"
     },
     {
       "korean": "기",
-      "sinhalese": "ගි"
+      "sinhalese": "කි"
     },
     {
       "korean": "김",
-      "sinhalese": "ගිම්"
+      "sinhalese": "කිම්"
     },
     {
       "korean": "바",
-      "sinhalese": "බා"
+      "sinhalese": "ප"
     },
     {
       "korean": "밀",
@@ -336,7 +336,7 @@
     },
     {
       "korean": "북",
-      "sinhalese": "බුක්"
+      "sinhalese": "පුක්"
     },
     {
       "korean": "용",
@@ -348,15 +348,15 @@
     },
     {
       "korean": "립",
-      "sinhalese": "ලිප්"
+      "sinhalese": "රිප්"
     },
     {
       "korean": "점",
-      "sinhalese": "ජොම්"
+      "sinhalese": "චොම්"
     },
     {
       "korean": "하",
-      "sinhalese": "හා"
+      "sinhalese": "හ"
     },
     {
       "korean": "가",
@@ -364,23 +364,23 @@
     },
     {
       "korean": "거",
-      "sinhalese": "ගො"
+      "sinhalese": "කො"
     },
     {
       "korean": "고",
-      "sinhalese": "ගෝ"
+      "sinhalese": "කෝ"
     },
     {
       "korean": "구",
-      "sinhalese": "ගු"
+      "sinhalese": "කු"
     },
     {
       "korean": "그",
-      "sinhalese": "ගෙ"
+      "sinhalese": "ක"
     },
     {
       "korean": "기",
-      "sinhalese": "ගි"
+      "sinhalese": "කි/ගි"
     },
     {
       "korean": "갸",
@@ -396,15 +396,11 @@
     },
     {
       "korean": "규",
-      "sinhalese": "ගුයු"
+      "sinhalese": "ග්යු"
     },
     {
       "korean": "갈",
-      "sinhalese": "ගල්"
-    },
-    {
-      "korean": "갈",
-      "sinhalese": "ගාල්"
+      "sinhalese": "කල්"
     },
     {
       "korean": "갑",
@@ -448,7 +444,7 @@
     },
     {
       "korean": "궤",
-      "sinhalese": "ග්වෙය්"
+      "sinhalese": "ග්වෙ"
     },
     {
       "korean": "귀",
@@ -459,16 +455,12 @@
       "sinhalese": "ග්වෝ"
     },
     {
-      "korean": "귀",
-      "sinhalese": "ග්වී"
-    },
-    {
       "korean": "규",
       "sinhalese": "ගුයු"
     },
     {
       "korean": "귤",
-      "sinhalese": "ගුල්"
+      "sinhalese": "ග්යුල්"
     },
     {
       "korean": "글",
@@ -476,7 +468,7 @@
     },
     {
       "korean": "긔",
-      "sinhalese": "ගී"
+      "sinhalese": "ගයි"
     },
     {
       "korean": "난",
