@@ -632,5 +632,183 @@
       "korean": "발음",
       "sinhalese": "උච්චාරණය "
     }
+  ],
+  "7. 여기가 사무실이에요": [
+    {
+      "korean": "잔소",
+      "sinhalese": "ස්ථාන "
+    },
+    {
+      "korean": "여기",
+      "sinhalese": "මෙතැන "
+    },
+    {
+      "korean": "저기",
+      "sinhalese": "අතන "
+    },
+    {
+      "korean": "거기",
+      "sinhalese": "ඔතන "
+    },
+    {
+      "korean": "어디",
+      "sinhalese": "කොහෙද "
+    },
+    {
+      "korean": "회사",
+      "sinhalese": "ආයතනය "
+    },
+    {
+      "korean": "사무실",
+      "sinhalese": "කාර්යාලය "
+    },
+    {
+      "korean": "화장실",
+      "sinhalese": "වැසිකිළිය "
+    },
+    {
+      "korean": "식당",
+      "sinhalese": "ආපන ශාලාව"
+    },
+    {
+      "korean": "집",
+      "sinhalese": "නිවස "
+    },
+    {
+      "korean": "기숙사",
+      "sinhalese": "නවාතැන "
+    },
+    {
+      "korean": "세탁소",
+      "sinhalese": "රෙදි සෝදන ස්ථානය "
+    },
+    {
+      "korean": "미용실",
+      "sinhalese": "බාබර් සාප්පුව "
+    },
+    {
+      "korean": "리장",
+      "sinhalese": "පොළ "
+    },
+    {
+      "korean": "마트",
+      "sinhalese": "වෙළෙඳසල "
+    },
+    {
+      "korean": "편의점",
+      "sinhalese": "කුඩා වෙළෙඳසල "
+    },
+    {
+      "korean": "슈퍼마켓",
+      "sinhalese": "සුපිරි වෙළෙඳසල "
+    },
+    {
+      "korean": "그런데",
+      "sinhalese": "ඒ උනත් "
+    },
+    {
+      "korean": "뭐 예요 (무엇) ",
+      "sinhalese": "කුමක් ද "
+    },
+    {
+      "korean": "여기가 사무실 입니까? ",
+      "sinhalese": "කාර්යාලය මෙතැන ද? "
+    },
+    {
+      "korean": "네, 사무실 입니다",
+      "sinhalese": "ඔව්, මේ කාර්යාලය යි "
+    },
+    {
+      "korean": "화장실이 어디 입니까? ",
+      "sinhalese": "වැසිකිළිය කොහෙද? "
+    },
+    {
+      "korean": "저기 입니다",
+      "sinhalese": "අතනයි "
+    },
+    {
+      "korean": "줄임말",
+      "sinhalese": "කෙටි යෙදුම් "
+    },
+    {
+      "korean": "사용합니다",
+      "sinhalese": "භාවිතා කරනවා "
+    },
+    {
+      "korean": "물곤",
+      "sinhalese": "භාන්ඩ "
+    },
+    {
+      "korean": "열쇠",
+      "sinhalese": "යතුර "
+    },
+    {
+      "korean": "가족 사진",
+      "sinhalese": "පවුලේ පින්තුරය "
+    },
+    {
+      "korean": "가방",
+      "sinhalese": "බෑගය "
+    },
+    {
+      "korean": "지갑",
+      "sinhalese": "පසුම්බිය "
+    },
+    {
+      "korean": "여권",
+      "sinhalese": "විදේශ ගමන් බලපත්‍රය "
+    },
+    {
+      "korean": "우산",
+      "sinhalese": "කුඩය "
+    },
+    {
+      "korean": "거울",
+      "sinhalese": "කණ්නාඩිය "
+    },
+    {
+      "korean": "화장품",
+      "sinhalese": "රූපලාවන්‍ය බඩු "
+    },
+    {
+      "korean": "빗",
+      "sinhalese": "පනාව "
+    },
+    {
+      "korean": "헤어드라이어",
+      "sinhalese": "හිසකෙස් වියළුම් යන්ත්‍රය "
+    },
+    {
+      "korean": "베개",
+      "sinhalese": "කොට්ටය "
+    },
+    {
+      "korean": "이불",
+      "sinhalese": "ඇද ඇතිරිල්ල"
+    },
+    {
+      "korean": "이에요 / 예요 [입니다] ",
+      "sinhalese": "වේ"
+    },
+    {
+      "korean": "대조적 정보",
+      "sinhalese": "වෙනත් තොරතුරු "
+    },
+    {
+      "korean": "퀴즈",
+      "sinhalese": "ප්‍රහේලිකාව "
+    },
+    {
+      "korean": "침대",
+      "sinhalese": "ඇඳ"
+    },
+    {
+      "korean": "한국의 좌식 문화",
+      "sinhalese": "කොරියානු බිම වැඩිවීමේ සංස්කෘතිය "
+    },
+    {
+      "korean": "생활필수품",
+      "sinhalese": "දෛනික ජීවිතයේ අත්‍යාවශ්‍ය භාන්ඩ "
+    }
   ]
 } 
