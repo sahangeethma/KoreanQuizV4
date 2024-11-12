@@ -607,6 +607,30 @@
     {
       "korean": "인사 예절",
       "sinhalese": "ආචාර කිරිමේ පුරුදු "
+    },
+    {
+      "korean": "듣기",
+      "sinhalese": "ශ්‍රවණය "
+    },
+    {
+      "korean": "읽기",
+      "sinhalese": "කියවීම "
+    },
+    {
+      "korean": "듣기 대본",
+      "sinhalese": "ශ්‍රවණ පිටපත"
+    },
+    {
+      "korean": "확장 영습",
+      "sinhalese": "වැඩිදුර අභ්‍යාස "
+    },
+    {
+      "korean": "고르십시요",
+      "sinhalese": "තෝරන්න"
+    },
+    {
+      "korean": "발음",
+      "sinhalese": "උච්චාරණය "
     }
   ]
 } 
