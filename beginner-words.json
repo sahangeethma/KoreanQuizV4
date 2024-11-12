@@ -304,7 +304,7 @@
     },
     {
       "korean": "퀵",
-      "sinhalese": "ක්වෙක්"
+      "sinhalese": "ක්වික්"
     },
     {
       "korean": "기",
@@ -456,7 +456,7 @@
     },
     {
       "korean": "규",
-      "sinhalese": "ගුයු"
+      "sinhalese": "ග්යු"
     },
     {
       "korean": "귤",
@@ -488,7 +488,7 @@
     },
     {
       "korean": "낭",
-      "sinhalese": "නෑං"
+      "sinhalese": "නං"
     },
     {
       "korean": "너",
@@ -500,23 +500,23 @@
     },
     {
       "korean": "넋",
-      "sinhalese": "නොට්"
+      "sinhalese": "නොත්"
     },
     {
       "korean": "넌",
-      "sinhalese": "නන්"
+      "sinhalese": "නොන්"
     },
     {
       "korean": "널",
-      "sinhalese": "නල්"
+      "sinhalese": "නොල්"
     },
     {
       "korean": "넘",
-      "sinhalese": "නම්"
+      "sinhalese": "නොම්"
     },
     {
       "korean": "넙",
-      "sinhalese": "නප්"
+      "sinhalese": "නොප්"
     },
     {
       "korean": "넴",
@@ -531,24 +531,16 @@
       "sinhalese": "නෙක්"
     },
     {
-      "korean": "넥",
-      "sinhalese": "නෙක්"
-    },
-    {
       "korean": "넨",
       "sinhalese": "නෙන්"
     },
     {
       "korean": "년",
-      "sinhalese": "නියන්"
+      "sinhalese": "න්යොන්"
     },
     {
       "korean": "념",
-      "sinhalese": "නෙම්"
-    },
-    {
-      "korean": "념",
-      "sinhalese": "නියොම්"
+      "sinhalese": "න්යොම්"
     },
     {
       "korean": "니",
@@ -572,19 +564,19 @@
     },
     {
       "korean": "도",
-      "sinhalese": "ඩෝ"
+      "sinhalese": "තෝ"
     },
     {
       "korean": "두",
-      "sinhalese": "දු"
+      "sinhalese": "තු/දු"
     },
     {
       "korean": "등",
-      "sinhalese": "දෙං"
+      "sinhalese": "තං"
     },
     {
       "korean": "덧",
-      "sinhalese": "දෙට්"
+      "sinhalese": "තොත්"
     },
     {
       "korean": "동",
@@ -592,27 +584,27 @@
     },
     {
       "korean": "독",
-      "sinhalese": "ඩොක්"
+      "sinhalese": "තොක්"
     },
     {
       "korean": "돈",
-      "sinhalese": "ඩොන්"
+      "sinhalese": "තොන්"
     },
     {
       "korean": "돌",
-      "sinhalese": "ඩොල්"
+      "sinhalese": "තොල්"
     },
     {
       "korean": "돈",
-      "sinhalese": "ඩොන්"
+      "sinhalese": "තොන්"
     },
     {
       "korean": "뚝",
-      "sinhalese": "තුක්"
+      "sinhalese": "ත්තුක්"
     },
     {
       "korean": "뚜",
-      "sinhalese": "තුව"
+      "sinhalese": "ත්තු"
     },
     {
       "korean": "가",
@@ -632,7 +624,7 @@
     },
     {
       "korean": "그",
-      "sinhalese": "ගෙ"
+      "sinhalese": "ග"
     },
     {
       "korean": "기",
@@ -652,7 +644,7 @@
     },
     {
       "korean": "규",
-      "sinhalese": "ගුයු"
+      "sinhalese": "ග්යු"
     },
     {
       "korean": "갈",
@@ -704,7 +696,7 @@
     },
     {
       "korean": "궤",
-      "sinhalese": "ග්වෙය්"
+      "sinhalese": "ග්වෙ"
     },
     {
       "korean": "귀",
@@ -715,16 +707,12 @@
       "sinhalese": "ග්වෝ"
     },
     {
-      "korean": "귀",
-      "sinhalese": "ග්වී"
-    },
-    {
       "korean": "규",
-      "sinhalese": "ගුයු"
+      "sinhalese": "ග්යු"
     },
     {
       "korean": "귤",
-      "sinhalese": "ගුල්"
+      "sinhalese": "ග්යුල්"
     },
     {
       "korean": "글",
@@ -732,7 +720,7 @@
     },
     {
       "korean": "긔",
-      "sinhalese": "ගී"
+      "sinhalese": "ගයි"
     },
     {
       "korean": "난",
