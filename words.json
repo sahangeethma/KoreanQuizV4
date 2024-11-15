@@ -573,7 +573,7 @@
       "sinhalese": "ඉංජිනේරුවා "
     },
     {
-      "korean": "몬수",
+      "korean": "목수",
       "sinhalese": "වඩු කාර්මිකයා "
     },
     {
@@ -809,6 +809,328 @@
     {
       "korean": "생활필수품",
       "sinhalese": "දෛනික ජීවිතයේ අත්‍යාවශ්‍ය භාන්ඩ "
+    },
+    {
+      "korean": "린스",
+      "sinhalese": "කන්ඩිෂනර්"
+    },
+    {
+      "korean": "칫솔",
+      "sinhalese": "දත් බුරුසුව"
+    },
+    {
+      "korean": "면도기",
+      "sinhalese": "ෂවර් එක"
+    },
+    {
+      "korean": "샴푸",
+      "sinhalese": "ෂැම්පු"
+    },
+    {
+      "korean": "치약",
+      "sinhalese": "දන්තාලේප"
+    },
+    {
+      "korean": "휴지",
+      "sinhalese": "ටිෂූ පේපර්"
+    },
+    {
+      "korean": "비누",
+      "sinhalese": "සබන්"
+    },
+    {
+      "korean": "수건",
+      "sinhalese": "තුවාය"
+    },
+    {
+      "korean": "컵",
+      "sinhalese": "කෝප්පය"
+    },
+    {
+      "korean": "그림",
+      "sinhalese": "පින්තුර"
+    },
+    {
+      "korean": "빈칸",
+      "sinhalese": "හිස් තැන / හිස් අවකාශය"
+    }
+  ],
+  "8. 12시 30분에 점심을 먹어요": [
+    {
+      "korean": "학습 안내",
+      "sinhalese": "අධ්‍යාපනය සදහා වන මාර්ගෝපදේශය "
+    },
+    {
+      "korean": "씨",
+      "sinhalese": "මහත්මයා / මහත්මිය"
+    },
+    {
+      "korean": "을 / 를",
+      "sinhalese": "නාමපද සම්බන්ධකයක් "
+    },
+    {
+      "korean": "투안씨, 지금 뭐 해요? ",
+      "sinhalese": "තුවාන් මහත්මයා, දැන් මොකද කරන්නේ?"
+    },
+    {
+      "korean": "텔레비전 을 봐요",
+      "sinhalese": "රූපවානිය බලනවා"
+    },
+    {
+      "korean": "저는 지금 요리해요",
+      "sinhalese": "මම දැන් ආහාර පිසිනවා"
+    },
+    {
+      "korean": "일과",
+      "sinhalese": "දින චර්යාව"
+    },
+    {
+      "korean": "텔레비전을 보다",
+      "sinhalese": "රූපවාහිනී බලනවා"
+    },
+    {
+      "korean": "장을 보다",
+      "sinhalese": "පොළේ යනවා"
+    },
+    {
+      "korean": "일어나다",
+      "sinhalese": "උදෑසන අවදි වෙනවා"
+    },
+    {
+      "korean": "자다",
+      "sinhalese": "නින්දට යනවා"
+    },
+    {
+      "korean": "쉬다",
+      "sinhalese": "විවේක ගන්නවා"
+    },
+    {
+      "korean": "씻다",
+      "sinhalese": "සෝදනවා"
+    },
+    {
+      "korean": "커피를 마시다",
+      "sinhalese": "කෝපි පානය කරනවා"
+    },
+    {
+      "korean": "아짐 먹다",
+      "sinhalese": "උදේ ආහාර ගන්නවා"
+    },
+    {
+      "korean": "점심 먹다",
+      "sinhalese": "දිවා ආහාර ගන්නවා"
+    },
+    {
+      "korean": "저녁을 먹다",
+      "sinhalese": "රාත්‍රී ආහාර ගන්නවා"
+    },
+    {
+      "korean": "일하다",
+      "sinhalese": "වැඩකරනවා"
+    },
+    {
+      "korean": "요리하다",
+      "sinhalese": "ආහාර පිසිනවා"
+    },
+    {
+      "korean": "운동하다",
+      "sinhalese": "ක්‍රීඩා කරනවා"
+    },
+    {
+      "korean": "전화하다",
+      "sinhalese": "දුරකථන ඇමතුමක් දෙනවා"
+    },
+    {
+      "korean": "회사에 가다",
+      "sinhalese": "ආයතනයට යනවා"
+    },
+    {
+      "korean": "집에 오다",
+      "sinhalese": "නිවසට යනවා"
+    },
+    {
+      "korean": "몇",
+      "sinhalese": "කීයටද / මොන වෙලාවටද "
+    },
+    {
+      "korean": "분",
+      "sinhalese": "විනාඩි"
+    },
+    {
+      "korean": "시",
+      "sinhalese": "පැය"
+    },
+    {
+      "korean": "지금 몇 시예요?",
+      "sinhalese": "දැන් වෙලාව කීයද?"
+    },
+    {
+      "korean": "11 시예요",
+      "sinhalese": "11 යි"
+    },
+    {
+      "korean": "몇 시에 점심을 먹어요?",
+      "sinhalese": "කීයටද දිවා ආහාරය ගන්නේ?"
+    },
+    {
+      "korean": "12시 30분에 먹어요",
+      "sinhalese": "12:30 ට ගන්නවා"
+    },
+    {
+      "korean": "한시",
+      "sinhalese": "01:00"
+    },
+    {
+      "korean": "두시",
+      "sinhalese": "02:00"
+    },
+    {
+      "korean": "세시",
+      "sinhalese": "03:00"
+    },
+    {
+      "korean": "네시",
+      "sinhalese": "04:00"
+    },
+    {
+      "korean": "다섯시",
+      "sinhalese": "05:00"
+    },
+    {
+      "korean": "여섯시",
+      "sinhalese": "06:00"
+    },
+    {
+      "korean": "일곱시",
+      "sinhalese": "07:00"
+    },
+    {
+      "korean": "여덟시",
+      "sinhalese": "08:00"
+    },
+    {
+      "korean": "아홉시",
+      "sinhalese": "09:00"
+    },
+    {
+      "korean": "열시",
+      "sinhalese": "10:00"
+    },
+    {
+      "korean": "열한시",
+      "sinhalese": "11:00"
+    },
+    {
+      "korean": "열두시",
+      "sinhalese": "12:00"
+    },
+    {
+      "korean": "일분",
+      "sinhalese": "00:01"
+    },
+    {
+      "korean": "이분",
+      "sinhalese": "00:02"
+    },
+    {
+      "korean": "삼분",
+      "sinhalese": "00:03"
+    },
+    {
+      "korean": "사분",
+      "sinhalese": "00:04"
+    },
+    {
+      "korean": "오분",
+      "sinhalese": "00:05"
+    },
+    {
+      "korean": "육분",
+      "sinhalese": "00:06"
+    },
+    {
+      "korean": "칠분",
+      "sinhalese": "00:07"
+    },
+    {
+      "korean": "팔분",
+      "sinhalese": "00:08"
+    },
+    {
+      "korean": "구분",
+      "sinhalese": "00:09"
+    },
+    {
+      "korean": "십분",
+      "sinhalese": "00:10"
+    },
+    {
+      "korean": "이십분",
+      "sinhalese": "00:20"
+    },
+    {
+      "korean": "삼십분",
+      "sinhalese": "00:30"
+    },
+    {
+      "korean": "사십분",
+      "sinhalese": "00:40"
+    },
+    {
+      "korean": "오십분",
+      "sinhalese": "00:50"
+    },
+    {
+      "korean": "시간",
+      "sinhalese": "වෙලාව"
+    },
+    {
+      "korean": "지금",
+      "sinhalese": "දැන්"
+    },
+    {
+      "korean": "오늘",
+      "sinhalese": "අද"
+    },
+    {
+      "korean": "어제",
+      "sinhalese": "ඊයේ"
+    },
+    {
+      "korean": "내일",
+      "sinhalese": "හෙට"
+    },
+    {
+      "korean": "오점",
+      "sinhalese": "පෙරවරු"
+    },
+    {
+      "korean": "오후",
+      "sinhalese": "පස්වරු"
+    },
+    {
+      "korean": "낮",
+      "sinhalese": "දවල් කාළය"
+    },
+    {
+      "korean": "밤",
+      "sinhalese": "රාත්‍රී කාළය"
+    },
+    {
+      "korean": "새벽",
+      "sinhalese": "අළුයම"
+    },
+    {
+      "korean": "아침",
+      "sinhalese": "උදෑසන"
+    },
+    {
+      "korean": "점심",
+      "sinhalese": "දහවල"
+    },
+    {
+      "korean": "저녁",
+      "sinhalese": "රාත්‍රිය"
     }
   ]
-} 
+}
