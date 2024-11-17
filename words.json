@@ -1278,5 +1278,89 @@
       "korean": "딸",
       "sinhalese": "දුව"
     }
+   ], 
+  "Numbers Chinese": [
+    {
+      "korean": "일",
+      "sinhalese": "1 එක"
+    },
+    {
+      "korean": "이",
+      "sinhalese": "2 දෙක"
+    },
+    {
+      "korean": "삼",
+      "sinhalese": "3 තුන"
+    },
+    {
+      "korean": "사",
+      "sinhalese": "4 හතර"
+    },
+    {
+      "korean": "오",
+      "sinhalese": "5 පහ"
+    },
+    {
+      "korean": "육",
+      "sinhalese": "6 හය"
+    },
+    {
+      "korean": "칠",
+      "sinhalese": "7 හත"
+    },
+    {
+      "korean": "팔",
+      "sinhalese": "8 අට"
+    },
+    {
+      "korean": "구",
+      "sinhalese": "9 නවය"
+    },
+    {
+      "korean": "십",
+      "sinhalese": "10 දහය"
+    }
+  ],
+  "Numbers Korean": [
+    {
+      "korean": "하나",
+      "sinhalese": "1 එක [K]"
+    },
+    {
+      "korean": "둘",
+      "sinhalese": "2 දෙක [K]"
+    },
+    {
+      "korean": "겟",
+      "sinhalese": "3 තුන [K]"
+    },
+    {
+      "korean": "넷",
+      "sinhalese": "4 හතර [K]"
+    },
+    {
+      "korean": "다섯",
+      "sinhalese": "5 පහ [K]"
+    },
+    {
+      "korean": "여섯",
+      "sinhalese": "6 හය [K]"
+    },
+    {
+      "korean": "일곱",
+      "sinhalese": "7 හත [K]"
+    },
+    {
+      "korean": "여덟",
+      "sinhalese": "8 අට [K]"
+    },
+    {
+      "korean": "아홉",
+      "sinhalese": "9 නවය [K]"
+    },
+    {
+      "korean": "열",
+      "sinhalese": "10 දහය [K]"
+    }
   ]
     } 
